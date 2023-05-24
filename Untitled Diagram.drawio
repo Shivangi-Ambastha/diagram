@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T08:26:12.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UbjuyUG3BdjrFneczDq2" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T08:27:53.815Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Jonh9bXInzX1Yo3Iftgh" version="21.3.2" type="github">
   <diagram name="Page-1" id="flXjDQTth14zhIsi1pz7">
-    <mxGraphModel dx="5575" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,8 +163,8 @@
         <mxCell id="SEG54F_XPyrdJn9cdplc-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;5. Auto Scaling Group&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="420" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SEG54F_XPyrdJn9cdplc-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;7. Security Group&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="613" width="140" height="30" as="geometry" />
+        <mxCell id="SEG54F_XPyrdJn9cdplc-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;7. Security Groups&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="613" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SEG54F_XPyrdJn9cdplc-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;5. Auto Scaling Group&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="1020" width="180" height="30" as="geometry" />
@@ -172,8 +172,8 @@
         <mxCell id="SEG54F_XPyrdJn9cdplc-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;6. Elastic Compute Cloud&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="1158" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SEG54F_XPyrdJn9cdplc-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;7. Security Group&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1188" width="150" height="30" as="geometry" />
+        <mxCell id="SEG54F_XPyrdJn9cdplc-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;7. Security Groups&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1188" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SEG54F_XPyrdJn9cdplc-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;8. S3 Bucket for EC2&amp;nbsp;&lt;br&gt;and Database Backup&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="208" width="180" height="50" as="geometry" />
